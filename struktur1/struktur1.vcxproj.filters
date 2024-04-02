@@ -27,5 +27,8 @@
     <ClCompile Include="struktur3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="struktur 4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

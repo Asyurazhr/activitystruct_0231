@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="struktur 3.cpp" />
+    <ClCompile Include="struktur 4.cpp" />
     <ClCompile Include="struktur1.cpp" />
     <ClCompile Include="struktur2.cpp" />
     <ClCompile Include="struktur3.cpp" />
